@@ -117,3 +117,4 @@ cython_debug/
 poetry.lock
 test
 versions
+.idea
